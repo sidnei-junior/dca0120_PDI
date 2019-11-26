@@ -1,0 +1,1 @@
+tempo: 20.0076 sobe% = 0.5 desce% = 0.5
